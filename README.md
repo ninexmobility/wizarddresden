@@ -1,6 +1,10 @@
-# wizarddresden
+# wizarddresden - Dresden Files Fansite](<https://wizarddresden.com)>
 
 WizardDresden.com is a Fan Site related to Jim Butchers The Dresden Files Book Series
+
+## Preview
+
+![Resume Preview](https://ninexmobility.github.io/wizarddresden-com/img/screenshot.png)
 
 ## About Will Worland
 
