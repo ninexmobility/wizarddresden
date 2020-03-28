@@ -4,7 +4,7 @@ WizardDresden.com is a Fan Site related to Jim Butchers The Dresden Files Book S
 
 ## Preview
 
-![Resume Preview](https://ninexmobility.github.io/wizarddresden/img/screenshot.png)
+![Resume Preview](https://ninexmobility.github.io/wizarddresden/images/screenshot.png)
 
 ## About Will Worland
 
