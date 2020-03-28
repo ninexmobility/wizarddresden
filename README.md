@@ -1,4 +1,4 @@
-# wizarddresden - Dresden Files Fansite](<https://wizarddresden.com)>
+# [wizarddresden - Dresden Files Fansite](https://wizarddresden.com)
 
 WizardDresden.com is a Fan Site related to Jim Butchers The Dresden Files Book Series
 
